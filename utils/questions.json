@@ -13,7 +13,12 @@
         "What’s your most used emoji?",
         "If you could swap lives with one person for a week, who would it be?",
         "What’s your dream vacation destination?",
-        "Which app do you spend the most time on?"
+        "Which app do you spend the most time on?",
+        "What’s your guilty pleasure TV show or movie?",
+        "If you could have any animal as a pet, real or fictional, what would it be?",
+        "What’s the most random skill you wish you had?",
+        "If you had a personal theme song, what would it be?",
+        "What snack could you eat forever without getting tired of it?"
       ]
     },
     {
@@ -29,7 +34,12 @@
         "What’s something you’ve never told your parents?",
         "What’s one insecurity you’re working on?",
         "When do you feel most confident?",
-        "What’s the biggest risk you’ve ever taken?"
+        "What’s the biggest risk you’ve ever taken?",
+        "What’s the most valuable lesson you’ve learned from a failure?",
+        "Who in your life do you wish you spent more time with?",
+        "What’s one thing that instantly makes you feel better when you’re upset?",
+        "What’s one moment you felt truly proud of yourself?",
+        "When do you feel most like yourself?"
       ]
     },
     {
@@ -45,7 +55,17 @@
         "What’s one thing you hope people will say about you at your funeral?",
         "Who in your life do you feel understands you the most?",
         "If you died today, what would you regret not doing?",
-        "What’s a secret dream you’ve never told anyone?"
+        "What’s a secret dream you’ve never told anyone?",
+        "If money and status were no object, what would I do?",
+        "If I was less afraid of people, what would I say?",
+        "If I was less afraid of other people’s opinions, what would I say?",
+        "What actually makes me happy?",
+        "Does success make me happy?",
+        "What is your definition of success?",
+        "What is my definition of success if money was taken out of the equation?",
+        "What do I want my life to look like in 10 years?",
+        "If I knew nobody would judge me, what would I do differently?",
+        "What am I holding onto that I need to let go of?"
       ]
     },
     {
@@ -61,7 +81,17 @@
         "What’s the darkest thought you’ve ever had?",
         "When was the last time you felt truly alone?",
         "If you could send one anonymous message to anyone, what would it say?",
-        "What’s one part of yourself you wish you could erase completely?"
+        "What’s one part of yourself you wish you could erase completely?",
+        "What are the things I’m hiding from myself?",
+        "What are the emotions that I’m unprepared to feel?",
+        "What’s the most selfish thing you’ve ever done?",
+        "When was the last time you manipulated someone to get your way?",
+        "If someone could read your mind right now, what would shock them the most?",
+        "What’s the biggest thing you’re currently avoiding in your life?",
+        "What’s the worst thing you’ve ever done out of anger?",
+        "If you could undo one choice you’ve made, what would it be?",
+        "What’s one truth about yourself you wish wasn’t true?",
+        "When was the last time you genuinely felt hopeless?"
       ]
     }
   ]

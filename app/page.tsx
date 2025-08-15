@@ -1,11 +1,12 @@
 "use client";
 
-import Question from "@/components/question";
-import { useState } from "react";
+import HomePage from "@/components/Home";
+// import Question from "@/components/question";
+// import { useState } from "react";
 export default function Home() {
   return (
     <main>
-      <Question />
+      <HomePage />
     </main>
   );
 }
