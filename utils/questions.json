@@ -1,0 +1,69 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "name": "Fun & Light",
+      "questions": [
+        "What’s your go-to comfort food?",
+        "If you could instantly master one skill, what would it be?",
+        "What’s the weirdest food combination you actually like?",
+        "Which movie could you watch 100 times without getting bored?",
+        "If money wasn’t an issue, where would you live?",
+        "Which song do you secretly love but won’t admit to?",
+        "What’s your most used emoji?",
+        "If you could swap lives with one person for a week, who would it be?",
+        "What’s your dream vacation destination?",
+        "Which app do you spend the most time on?"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Personal",
+      "questions": [
+        "What’s a childhood memory you think about often?",
+        "Who has had the biggest influence on your life so far?",
+        "What’s a habit you wish you could break?",
+        "What’s the hardest decision you’ve ever had to make?",
+        "When was the last time you cried, and why?",
+        "If you could give your younger self one piece of advice, what would it be?",
+        "What’s something you’ve never told your parents?",
+        "What’s one insecurity you’re working on?",
+        "When do you feel most confident?",
+        "What’s the biggest risk you’ve ever taken?"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Deep",
+      "questions": [
+        "What do you think your purpose in life is?",
+        "What’s your biggest fear for the future?",
+        "If you could erase one memory, would you?",
+        "What’s the most pain you’ve ever felt (physical or emotional)?",
+        "Do you believe people can truly change?",
+        "What’s a truth you wish you didn’t know?",
+        "What’s one thing you hope people will say about you at your funeral?",
+        "Who in your life do you feel understands you the most?",
+        "If you died today, what would you regret not doing?",
+        "What’s a secret dream you’ve never told anyone?"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Extreme",
+      "questions": [
+        "What’s something you’ve done that you’ve never told anyone?",
+        "Who in this room do you trust the least, and why?",
+        "What’s the most ashamed you’ve ever felt?",
+        "Have you ever betrayed a friend? What happened?",
+        "What’s a lie you’ve told that still haunts you?",
+        "If you had one year left to live, what would you do differently?",
+        "What’s the darkest thought you’ve ever had?",
+        "When was the last time you felt truly alone?",
+        "If you could send one anonymous message to anyone, what would it say?",
+        "What’s one part of yourself you wish you could erase completely?"
+      ]
+    }
+  ]
+}
+
